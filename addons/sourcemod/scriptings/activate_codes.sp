@@ -30,6 +30,7 @@ public void OnPluginStart()	{
 	
 	if(!kv.GotoFirstSubKey())	{
 		PrintToServer("[Activate Codes] KEYVALUES_CANNOT_INITIALIZE_SUBKEY (Unable to initialize first subkey, is it configured properly?)");
+		delete kv;
 		return;
 	}
 	
