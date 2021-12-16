@@ -1,7 +1,5 @@
 # Activate-Codes
-Simple plugin that offers natives and if the code is correct, it'll return a value.
-
-Inspired by this AlliedModders Post: https://forums.alliedmods.net/showthread.php?t=335580
+Simple plugin i made when i were bored that offers natives and if the code is correct, it'll return a value.
 
 Natives:
 
