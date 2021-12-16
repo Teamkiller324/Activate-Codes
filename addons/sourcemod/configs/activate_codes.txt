@@ -1,0 +1,22 @@
+"Codes"
+{
+	"AAAAA-AAAAA"
+	{
+		"flag"	"a"
+	}
+	
+	"BBBBB-BBBBB"
+	{
+		"flag"	"a"
+	}
+	
+	"CCCCC-CCCCC"
+	{
+		"flag"	"b"
+	}
+	
+	"DDDDD-DDDDD"
+	{
+		"flag"	"d"
+	}
+}
