@@ -5,4 +5,4 @@ Inspired by this AlliedModders Post: https://forums.alliedmods.net/showthread.ph
 
 Natives:
 
-`ActivateCodes_GetFlagFromCode` - Returns a flag in ADMFLAG format if the correct is correct.
+`ActivateCodes_GetFlagFromCode` - Returns a flag in ADMFLAG format if the code is valid and correct.
